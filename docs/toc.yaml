@@ -1,7 +1,7 @@
 navigation:
   logo:
     url: index.html
-    text: TrueRuslan
+    text: СМО
     target: _self
   header:
     leftItems:
@@ -9,11 +9,11 @@ navigation:
         type: link
         url: index.html
         target: _self
-      - text: Обо мне
+      - text: О нас
         type: link
         url: about.html
         target: _self
-      - text: Резюме
+      - text: Билетная система
         type: link
         url: resume.html
         target: _self
@@ -32,24 +32,21 @@ navigation:
     rightItems:
       - type: link
         text: GitHubㅤ
-        url: https://github.com/True-Ruslan
+        url: https://github.com/Arehak06
       - type: link
         text: Telegramㅤ
-        url: https://t.me/TrueRuslan_Blog
-      - type: link
-        text: Habrㅤ
-        url: https://habr.com/ru/users/trueruslan
+        url: https://t.me/D4passanger
       - type: controls
-title: TrueRuslan - Разработчик
+title: Справочник - тест
 href: index.yaml
 items:
-  - name: Обо мне
+  - name: О нас
     href: ./landing/about.md
-  - name: Резюме
+  - name: Билетная система
     href: ./landing/resume.md
-  - name: Проекты
+  - name: Юридический отдел
     href: ./landing/projects.md
-  - name: Фотографии
+  - name: Пон
     href: ./landing/photos.md
   - name: Контакты
     href: ./landing/contacts.md
