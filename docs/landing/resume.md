@@ -10,7 +10,6 @@
 
 ---
 
-&nbsp;
 
 {% layout cols=auto justify=center gap=l %}
 
@@ -30,7 +29,6 @@
 
 ![Frame 7.png](/homepage/.files/frame7.png =150x150)
 
-&nbsp;
 
 {% endblock %}
 
@@ -154,7 +152,6 @@
 
 {% block col=9 %}
 
-&nbsp;
 
 ### Про поезда поездатые и автобусы
 
@@ -176,7 +173,6 @@
 
 {% block col=9 %}
 
-&nbsp;
 
 ### Хотите помочь или исправить ошибку?
 
