@@ -14,5 +14,6 @@ plugins:
   - "@diplodoc/search-extension"
 
 docs-viewer:
-  logo-options: src ![аватарка](_images/Frame_9.png "Оно работает вау"){width=100 height=100}
+  logo-options: 
+   src: https://storage.yandexcloud.net/docs-external/yfm-documentation/_images/logo.svg
   themes: ['dark']
