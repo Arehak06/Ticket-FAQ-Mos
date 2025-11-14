@@ -6,6 +6,7 @@ navigation:
       icon: "https://i.postimg.cc/rw6SPB0d/Frame-9.jpg"
     light:
       icon: "https://i.postimg.cc/rw6SPB0d/Frame-9.jpg"
+      target: _self
 header:
     leftItems:
       - text: Главная
