@@ -37,7 +37,7 @@ navigation:
         text: Telegramㅤ
         url: https://t.me/D4passanger
       - type: controls
-title: Справочник - тест
+title: Справочник по транспорту Москвы и области ❤️
 href: index.yaml
 items:
   - name: О нас
