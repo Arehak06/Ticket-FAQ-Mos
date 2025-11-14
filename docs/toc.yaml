@@ -7,7 +7,7 @@ navigation:
     light:
       icon: "https://i.postimg.cc/rw6SPB0d/Frame-9.jpg"
       target: _self
-header:
+    header:
     leftItems:
       - text: Главная
         type: link
