@@ -2,8 +2,7 @@ navigation:
     logo:
     url: index.html
     target: _self
-    light:
-      icon: "https://i.postimg.cc/rw6SPB0d/Frame-9.jpg"
+    icon: "https://i.postimg.cc/rw6SPB0d/Frame-9.jpg"
     header:
     leftItems:
       - text: Главная
