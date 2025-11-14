@@ -6,7 +6,7 @@
 
 {% endnote %}
 
-![Profile banner - 1.png](/docs/_images/Frame_9.png =1680x240)
+
 
 ---
 
@@ -27,7 +27,7 @@
 
 {% block col=3 %}
 
-![Frame 7.png](//docs/_images/Frame_9.png =150x150)
+
 
 
 {% endblock %}
@@ -36,7 +36,7 @@
 
 ---
 
-![Profile banner - 2.png](/docs/_images/Frame_9.png =1680x240)
+
 
 {% layout gap=l %}
 
@@ -46,7 +46,7 @@
 
 {% block col=3 %}
 
-![Frame 3.png](/docs/_images/Frame_9.png =144x144)
+
 
 {% endblock %}
 
@@ -56,7 +56,7 @@
 
 История о том как создавалось и превращалось в волшебство, как идеи могут жить вечно…
 
-![Button.png](/docs/_images/Frame_9.png =168x40) [ ]()
+
 
 {% endblock %}
 
@@ -70,7 +70,7 @@
 
 {% block col=3 %}
 
-![Frame 1.png](/docs/_images/Frame_9.png =150x150)
+
 
 {% endblock %}
 
@@ -80,7 +80,7 @@
 
 Хотите выгодно купить билет? Или понимать что такое Тройка и Стрелка? Тогда вам явно сюда… (*Даже Собянин не в курсах про такие фишки*)
 
-![Button.png](/docs/_images/Frame_9.png =168x40)
+
 
 {% endblock %}
 
@@ -96,7 +96,7 @@
 
 {% layout gap=l %}
 
-![Frame 4.png](/docs/_images/Frame_9.png =150x150)
+
 
 {% block col=9 %}
 
@@ -104,7 +104,7 @@
 
 "*А почему проехали две Иволги и на табло написано Иволга?!?!*" - чтобы таких вопросов не было, куда же Иволга поехала - смотрите расписание поездов и актуальное движение
 
-![Button.png](/docs/_images/Frame_9.png =168x40)
+
 
 {% endblock %}
 
@@ -120,7 +120,7 @@
 
 {% block align=right %}
 
-![Frame 2.png](/docs/_images/Frame_9.png =126x126)
+
 
 {% endblock %}
 
@@ -132,7 +132,7 @@
 
 Объясним, поясним и докажем что вы проехали по льготному билету вполне законно… (*Псс, контролеры - пропустите его, он хороший*)
 
-![Button.png](/docs/_images/Frame_9.png =168x40)
+
 
 {% endblock %}
 
@@ -148,7 +148,6 @@
 
 {% layout gap=l %}
 
-![Frame 5.png](/docs/_images/Frame_9.png =182x182)
 
 {% block col=9 %}
 
@@ -157,7 +156,7 @@
 
 Раздел для фанатов поездов и автобусов (*Осторожно: горячие обсуждение почему Иволга на Дальняк - это ужас*)
 
-![Button.png](/docs/_images/Frame_9.png =168x40)
+
 
 {% endblock %}
 
@@ -169,7 +168,7 @@
 
 {% layout gap=l %}
 
-![Frame 6.png](/docs/_images/Frame_9.png =150x150)
+
 
 {% block col=9 %}
 
@@ -178,7 +177,6 @@
 
 Оставляйте свои правки на странице и мы оперативно его исправим (Надеюсь - и вообще у меня лапки..)
 
-![Button.png](/docs/_images/Frame_9.png =168x40)
 
 {% endblock %}
 
