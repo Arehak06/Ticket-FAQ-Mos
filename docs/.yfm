@@ -3,7 +3,7 @@ outputFormat: html
 
 interface:
   toc-header: false
-  favicon-src: https://clck.ru/3QKbmG
+  favicon-src: https://clck.ru/3QKcB5
 
 search:
   provider: local
@@ -14,4 +14,5 @@ plugins:
   - "@diplodoc/search-extension"
 
 docs-viewer:
+  logo-options: src ./_images/avatar.png "Аватарка" {height=230}
   themes: ['dark']
