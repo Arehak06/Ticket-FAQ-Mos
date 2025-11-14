@@ -1,7 +1,6 @@
 navigation:
   logo:
     url: index.html
-    text: СМО
     target: _self
   header:
     leftItems:
