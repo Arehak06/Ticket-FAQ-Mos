@@ -17,3 +17,7 @@ docs-viewer:
   logo-options: 
    src: https://storage.yandexcloud.net/docs-external/yfm-documentation/_images/logo.svg
   themes: ['dark']
+
+resources:
+  style:
+    - _assets/style/custom.css
