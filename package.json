@@ -32,7 +32,7 @@
   "main": "scripts/serve.js",
   "scripts": {
     "start": "npm run build:docs && node scripts/serve.js",
-    "build:docs": "yfm --input docs --output docs-html && npm run copy-assets",
+    "build:docs": "yfm --input docs --allow-custom-resources --output docs-html && npm run copy-assets",
     "copy-assets": "node scripts/copy-assets.js"
   },
   "dependencies": {
