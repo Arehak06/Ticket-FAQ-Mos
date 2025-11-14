@@ -10,7 +10,7 @@ blocks:
       image:
         mobile: 'https://i.postimg.cc/GhnpGXwr/Frame-8.png'
         desktop: 'https://i.postimg.cc/GhnpGXwr/Frame-8.png'
-      color: '#FFFFFF'
+      color: '#000000'
       fullWidth: false
     buttons:
       - text: 'Начать'
