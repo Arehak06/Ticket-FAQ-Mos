@@ -3,7 +3,7 @@ outputFormat: html
 
 interface:
   toc-header: false
-  favicon-src: https://clck.ru/3QKcB5
+  favicon-src: https://i.postimg.cc/rw6SPB0d/Frame-9.jpg
 
 search:
   provider: local
@@ -15,8 +15,7 @@ plugins:
 
 docs-viewer:
   logo-options: 
-   src: https://storage.yandexcloud.net/docs-external/yfm-documentation/_images/logo.svg
-  themes: ['dark']
+   src: https://i.postimg.cc/XNQHtY45/Frame-4.png
 
 resources:
   style:
