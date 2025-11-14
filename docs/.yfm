@@ -14,5 +14,5 @@ plugins:
   - "@diplodoc/search-extension"
 
 docs-viewer:
-  logo-options: src ./_images/avatar.png "Аватарка" {height=230}
+  logo-options: src ./_images/Frame_9.png
   themes: ['dark']
