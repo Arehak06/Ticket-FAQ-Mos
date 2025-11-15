@@ -1,4 +1,4 @@
-navigation:
+- navigation:
     logo:
       icon: '/docs/_images/logo.svg'
       text: 'Logo'
@@ -9,43 +9,69 @@ navigation:
       light:
         text: 'Logo Light'
     header:
-    leftItems:
-      - text: Главная
-        type: link
-        url: index.html
-        target: _self
-      - text: О нас
-        type: link
-        url: about.html
-        target: _self
-      - text: Билетная система
-        type: link
-        url: tickets.html
-        target: _self
-      - text: Контакты
-        type: link
-        url: contacts.html
-        target: _self
-    rightItems:
-      - type: link
-        text: GitHubㅤ
-        url: https://github.com/Arehak06
-      - type: link
-        text: Telegramㅤ
-        url: https://t.me/D4passenger
-      - type: controls
-title: Справочник по транспорту Москвы и области ❤️
-href: index.yaml
-items:
-  - name: О нас
-    href: ./landing/about.md
-  - name: Билетная система
-    href: ./landing/tickets.md
-  - name: Юридический отдел
-    href: ./landing/projects.md
-  - name: Расписание поездов
-    href: ./landing/table.md
-  - name: Контакты
-    href: ./landing/contacts.md
-
-
+      leftItems:
+        - text: 'Dropdown 1'
+          type: 'dropdown'
+          items:
+            - text: 'Lorem ipsum'
+              url: 'https://example.com'
+              type: 'link'
+            - text: 'Dolor sit amet'
+              url: 'https://example.com'
+              type: 'link'
+            - text: 'Consectetur adipiscing'
+              url: 'https://example.com'
+              type: 'link'
+            - text: 'Ut enim ad minim '
+              url: 'https://example.com'
+              type: 'link'
+        - text: 'Dropdown2'
+          type: 'dropdown'
+          items:
+            - text: 'Lorem ipsum '
+              url: 'https://example.com'
+            - text: 'Dolor sit amet'
+              url: 'https://example.com'
+            - text: 'Consectetur adipiscing'
+              url: 'https://example.com'
+            - text: 'Ut enim ad minim '
+              url: 'https://example.com'
+        - type: 'link'
+          text: 'Link with spaces'
+          url: 'https://example.com'
+          icon: '//docs/_images/logo.svg'
+        - type: 'link'
+          text: 'Link with arrow'
+          url: 'https://example.com'
+          arrow: true
+          urlTitle: 'External website. Opens in a new window'
+        - type: 'link'
+          text: 'Link3'
+          url: 'https://example.com'
+        - type: 'link'
+          text: 'Link4'
+          url: 'https://example.com'
+      rightItems:
+        - type: 'dropdown'
+          text: 'Language'
+          icon: '/docs/_images/logo.svg'
+          items:
+            - text: 'Russian'
+              url: '/ru'
+              type: 'link'
+            - text: 'English'
+              url: '/'
+              type: 'link'
+        - type: 'github-button'
+          text: 'Star'
+          label: 'Star @gravity-ui/page-constructor on GitHub'
+          url: 'https://github.com/gravity-ui/page-constructor'
+          urlTitle: 'Page Constructor GitHub page. Opens in a new window'
+        - type: 'link'
+          text: 'Link'
+          url: 'https://example.com'
+          icon: '/page-constructor/story-assets/icon_2_light.svg'
+        - type: 'button'
+          text: 'Button'
+          url: 'https://example.com'
+          theme: 'pseudo'
