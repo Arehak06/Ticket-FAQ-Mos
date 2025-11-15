@@ -1,7 +1,7 @@
 navigation:
   logo:
     url: "./index.html"
-    urlTitle: 'Вернуться на главную'
+    urlTitle: 'Вернуться на главнуюю'
     dark:
       icon: "https://storage.yandexcloud.net/diplodoc-www-assets/logo/ddos-logo-dark.svg"
     light:
