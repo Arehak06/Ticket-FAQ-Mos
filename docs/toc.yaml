@@ -1,8 +1,4 @@
 navigation:
-  logo:
-    url: index.html
-    text: СМО
-    target: _self
   header:
     leftItems:
       - text: Главная
@@ -15,15 +11,7 @@ navigation:
         target: _self
       - text: Билетная система
         type: link
-        url: resume.html
-        target: _self
-      - text: Проекты
-        type: link
-        url: projects.html
-        target: _self
-      - text: Фотографии
-        type: link
-        url: photos.html
+        url: tickets.html
         target: _self
       - text: Контакты
         type: link
@@ -35,7 +23,7 @@ navigation:
         url: https://github.com/Arehak06
       - type: link
         text: Telegramㅤ
-        url: https://t.me/D4passanger
+        url: https://t.me/D4passenger
       - type: controls
 title: Справочник по транспорту Москвы и области ❤️
 href: index.yaml
@@ -43,11 +31,11 @@ items:
   - name: О нас
     href: ./landing/about.md
   - name: Билетная система
-    href: ./landing/resume.md
+    href: ./landing/tickets.md
   - name: Юридический отдел
     href: ./landing/projects.md
-  - name: Пон
-    href: ./landing/photos.md
+  - name: Расписание поездов
+    href: ./landing/table.md
   - name: Контакты
     href: ./landing/contacts.md
 
