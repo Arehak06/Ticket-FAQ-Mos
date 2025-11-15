@@ -8,7 +8,7 @@ navigation:
         icon: '/docs/_images/logo.svg'
       light:
         text: 'Logo Light'
-header:
+    header:
     leftItems:
       - text: Главная
         type: link
