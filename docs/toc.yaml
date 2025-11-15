@@ -1,5 +1,14 @@
 navigation:
-  header:
+    logo:
+      icon: '/docs/_images/logo.svg'
+      text: 'Logo'
+      urlTitle: 'Title'
+      dark:
+        text: 'Logo Dark'
+        icon: '/docs/_images/logo.svg'
+      light:
+        text: 'Logo Light'
+header:
     leftItems:
       - text: Главная
         type: link
