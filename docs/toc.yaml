@@ -3,9 +3,9 @@ navigation:
     url: "./index.html"
     urlTitle: 'Вернуться на главную'
     dark:
-      icon: './docs/_images/logo.svg'
+      icon: 'https://clck.ru/3QM2kn'
     light:
-      icon: './docs/_images/logo.svg'
+      icon: 'https://clck.ru/3QM2kn'
     target: _self
   header:
     leftItems:
