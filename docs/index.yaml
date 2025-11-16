@@ -1,33 +1,99 @@
-title: Справочник по транспорту Москвы и области
-description:
-  - >-
-    Это главная страница Вики!
-  - >-
-    Справочник создано для удобства пассажиров в Москве и области.
-  - >-
-    Мы гордимся что неравнодушные люди существуют на земле и гордимся что они среди нас!
-meta:
-  title: Справочник по транспорту Москвы и области
-  description: Главная страница
-links:
-  - title: О нас
-    description: История о том как создавалось и превращалось в волшебство, как идеи могут жить вечно…
-    href: ./landing/about.md
-  - title: Билетная система ЖД и наземного транспорта
-    description: Хотите выгодно купить билет? Или понимать что такое Тройка и Стрелка? Тогда вам явно сюда… (Даже Собянин не в курсах про такие фишки)
-    href: ./landing/tickets.md
-  - title: Расписание поездов и актуальное движение
-    description: «А почему проехали две Иволги и на табло написано Иволга?!?!» - чтобы таких вопросов не было, куда же Иволга поехала - смотрите расписание поездов и актуальное движение
-    href: ./landing/table.md
-  - title: Юридический раздел
-    description: Объясним, поясним и докажем что вы проехали по льготному билету вполне законно… (Псс, контролеры - пропустите его, он хороший)
-    href: ./landing/projects.md
-  - title: Про поезда поездатые и автобусы
-    description: Раздел для фанатов поездов и автобусов (Осторожно горячие обсуждение почему Иволга на Дальняк - это ужас)
-    href: ./landing/train.md
-  - title: Хотите помочь или исправить ошибку?
-    description: Оставляйте свои правки на странице и мы оперативно его исправим (Надеюсь - и вообще у меня лапки..)
-    href: ./landing/contacts.md
-  - title: Контакты
-    description: Раздел чтобы был - но не более...
-    href: ./landing/contacts.md
+blocks:
+  - type: 'banner-block'
+    className: ''
+    title: 'Пожалуй, лучший справочник по транспорту Москвы и области'
+    subtitle: 'Мы гордимся что в мире есть неравнодушные люди и гордимся что они среди нас!'
+    image:
+     light: 'https://i.postimg.cc/FHGF0Zp9/Ffcghjk2.jpg'
+     dark: 'https://i.postimg.cc/FHGF0Zp9/Ffcghjk2.jpg'
+    disableCompress: true
+    color:
+     light: '#EFF2F8'
+     dark: '#262626'
+    indent:
+      top: 'm'
+      bottom: 'm'
+  - type: 'card-layout-block'
+    title: 'Статьи'
+    children:
+      - type: 'background-card'
+        title: 'О нас'
+        text: 'История о том как создавалось и превращалось в волшебство, как идеи могут жить вечно…'
+        background:
+          src: 'https://i.postimg.cc/ryvMGVHk/card-1.png'
+          disableCompress: true
+        paddingBottom: 'm'
+        buttons:
+          - text: 'Подробнее'
+            theme: 'raised'
+            url: './landing/about.md'
+        border: none
+        theme: 'light'
+      - type: 'background-card'
+        title: 'Билетная система ЖД и наземного транспорта'
+        text: 'Хотите выгодно купить билет? Или понимать что такое Тройка и Стрелка? Тогда вам явно сюда… (Даже Собянин не в курсах про такие фишки)'
+        background:
+          src: 'https://i.postimg.cc/mrFSHS1g/adsa.png'
+          disableCompress: true
+        paddingBottom: 'm'
+        buttons:
+          - text: 'Подробнее'
+            theme: 'raised'
+            url: './landing/tickets.md'
+        border: none
+        theme: 'light'
+      - type: 'background-card'
+        title: 'Расписание поездов и актуальное движение'
+        text: '«А почему проехали две Иволги и на табло написано Иволга?!?!» - чтобы таких вопросов не было, куда же Иволга поехала - смотрите расписание поездов и актуальное движение'
+        background:
+          src: 'https://i.postimg.cc/mrFSHS1g/adsa.png'
+          disableCompress: true
+        paddingBottom: 'm'
+        buttons:
+          - text: 'Подробнее'
+            theme: 'raised'
+            url: './landing/table.md'
+        theme: 'light'
+        border: none
+      - type: 'background-card'
+        title: 'Юридический раздел'
+        text: 'Объясним, поясним и докажем что вы проехали по льготному билету вполне законно… (Псс, контролеры - пропустите его, он хороший)'
+        background:
+          src: 'https://i.postimg.cc/DftnQvN7/card_2.png'
+          disableCompress: true
+        paddingBottom: 'm'
+        buttons:
+          - text: 'Подробнее'
+            theme: 'raised'
+            url: './landing/projects.md'
+        border: none
+        theme: 'light'
+      - type: 'background-card'
+        title: 'Про поезда поездатые и автобусы'
+        text: 'Раздел для фанатов поездов и автобусов (Осторожно горячие обсуждение почему Иволга на Дальняк - это ужас)'
+        background:
+          src: 'https://i.postimg.cc/mrFSHS1g/adsa.png'
+          disableCompress: true
+        paddingBottom: 'm'
+        buttons:
+          - text: 'Подробнее'
+            theme: 'raised'
+            url: './landing/train.md'
+        border: none
+        theme: 'light'
+      - type: 'background-card'
+        title: 'Хотите помочь или исправить ошибку?'
+        text: 'Оставляйте свои правки на странице и мы оперативно его исправим (Надеюсь - и вообще у меня лапки..)'
+        background:
+          src: 'https://i.postimg.cc/pVgRQWSv/card_3.png'
+          disableCompress: true
+        paddingBottom: 'm'
+        buttons:
+          - text: 'Связаться с нами'
+            theme: 'raised'
+            url: './landing/contacts.md'
+        border: none
+        theme: 'light'
+    indent:
+      top: 'm'
+      bottom: 'm'

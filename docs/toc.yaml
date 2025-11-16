@@ -3,9 +3,10 @@ navigation:
     url: "./index.html"
     urlTitle: 'Вернуться на главнуюю'
     dark:
-      icon: "https://storage.yandexcloud.net/diplodoc-www-assets/logo/ddos-logo-dark.svg"
+      icon: "https://i.postimg.cc/rw6SPB0d/Frame-9.jpg"
     light:
-      icon: "https://storage.yandexcloud.net/diplodoc-www-assets/navigation/diplodoc-logo.svg"
+      icon: "https://i.postimg.cc/rw6SPB0d/Frame-9.jpg"
+    target: _self
   header:
     leftItems:
       - text: Главная
@@ -14,15 +15,15 @@ navigation:
         target: _self
       - text: О нас
         type: link
-        url: about.html
+        url: ./landing/about.md
         target: _self
       - text: Билетная система
         type: link
-        url: tickets.html
+        url: ./landing/tickets.md
         target: _self
       - text: Контакты
         type: link
-        url: contacts.html
+        url: ./landing/contacts.md
         target: _self
     rightItems:
       - type: link
@@ -35,10 +36,34 @@ navigation:
 title: Справочник по транспорту Москвы и области ❤️
 href: index.yaml
 items:
-  - name: О нас
-    href: ./landing/about.md
-  - name: Билетная система
-    href: ./landing/tickets.md
+- name: Главное
+  labeled: true
+- name: О нас
+  href: ./landing/about.md
+- name: Билетная система
+  labeled: true
+  items:
+  - name: Москва
+    href: tickets/troika.md
+    items:
+      - name: Тройка
+        href: tickets/troika.md
+      - name: Стрелка
+        href: tickets/strelka.md
+      - name: Разовые билеты
+        href: tickets/one_ticket.md
+  - name: Область
+    href: tickets/troika.md
+    items:
+      - name: Тройка
+        href: tickets/troika.md
+      - name: Стрелка
+        href: tickets/strelka.md
+      - name: Разовые билеты
+        href: tickets/one_ticket.md
+- name: ...и многое другое
+  labeled: true
+  items:
   - name: Юридический отдел
     href: ./landing/projects.md
   - name: Расписание поездов
