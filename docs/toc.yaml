@@ -1,3 +1,10 @@
+analytics:
+  text: 'Мы используем <a href="https://yandex.ru/legal/cookies_policy">файлы cookie</a>, чтобы вы могли наилучшим образом пользоваться нашим веб-сайтом. Если вы продолжаете использовать наш веб-сайт, мы полагаем, что вы согласны с таким использованием.'
+  buttons:
+    accept:
+      text: "Ок"
+      theme: "accent"
+      size: "xl"
 navigation:
   logo:
     url: "./index.html"
@@ -15,7 +22,7 @@ navigation:
         target: _self
       - text: О нас
         type: link
-        url: ./landing/about.md
+        url: about.md
         target: _self
       - text: Билетная система
         type: link
@@ -41,6 +48,7 @@ items:
 - name: О нас
   href: ./landing/about.md
 - name: Билетная система
+  href: tickets/tickets.md
   labeled: true
   items:
   - name: Москва

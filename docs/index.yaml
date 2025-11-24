@@ -2,7 +2,7 @@ blocks:
   - type: 'banner-block'
     className: ''
     title: 'Пожалуй, лучший справочник по транспорту Москвы и области'
-    subtitle: 'Мы гордимся что в мире есть неравнодушные люди и гордимся что они среди нас!'
+    subtitle: 'Мы гордимся что в мире есть неравнодушные люди и гордимся что они среди нас! ❤️'
     image:
      light: 'https://i.postimg.cc/FHGF0Zp9/Ffcghjk2.jpg'
      dark: 'https://i.postimg.cc/FHGF0Zp9/Ffcghjk2.jpg'

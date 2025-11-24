@@ -17,15 +17,15 @@
 
 ## 📠 Контакты, ссылки автора и друзей справочника:
 
-**✈️ Telegram**: https://t.me/Arehak
+**✈️ Telegram**: [**t.me/arehak**](https://t.me/arehak)
 
-**🖤 GitHub**: https://github.com/Arehak06
+**🖤 GitHub**: [**Arehak**](https://github.com/Arehak06)
 
-**💚 Telegram - чат «D4 Апрелевка - Железнодорожная»**:
+**💚 Telegram - чат «D4 Апрелевка - Железнодорожная»**: [**t.me/D4passenger**](https://t.me/D4passenger)
 
-**🟩 Подслушано МДЦ-D4 | Апрелевка - Железнодорожная**:
+**🟩 Подслушано МДЦ-D4 | Апрелевка - Железнодорожная**: [**t.me/D4msk**](https://t.me/D4msk)
 
-**🤍 ЗОТ - За Общественный Транспорт.**: 
+**🤍 ЗОТ - За Общественный Транспорт.**: [**t.me/For_Public_Transport**](https://t.me/For_Public_Transport)
 
 ---
 
