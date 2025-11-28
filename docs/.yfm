@@ -22,3 +22,10 @@ docs-viewer:
 resources:
   style:
     - _assets/style/custom.css
+
+extensions:
+- name: mdit-plugins
+  plugins:
+      - "markdown-it-ins"
+      - name: markdown-it-emoji
+        exportName: full

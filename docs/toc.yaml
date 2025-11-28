@@ -67,11 +67,14 @@ items:
         href: tickets/strelka.md
       - name: Разовые билеты
         href: tickets/one_ticket.md
+- name: Юридический отдел
+  labeled: true
+  items:
+  - name: Безбилетный проезд
+    href: ./faq_docs/projects.md
 - name: ...и многое другое
   labeled: true
   items:
-  - name: Юридический отдел
-    href: ./landing/projects.md
   - name: Расписание поездов
     href: ./landing/table.md
   - name: Контакты
