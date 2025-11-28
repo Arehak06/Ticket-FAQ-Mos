@@ -56,8 +56,6 @@ items:
     items:
       - name: Тройка
         href: tickets/troika.md
-      - name: Стрелка
-        href: tickets/strelka.md
       - name: Разовые билеты
         href: tickets/one_ticket.md
   - name: Область
