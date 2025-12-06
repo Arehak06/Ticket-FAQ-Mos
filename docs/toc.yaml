@@ -77,6 +77,8 @@ items:
 - name: ...и многое другое
   labeled: true
   items:
+  - name: Глоссарий
+    href: ./landing/ligbez.md
   - name: Расписание поездов
     href: ./landing/table.md
   - name: Контакты

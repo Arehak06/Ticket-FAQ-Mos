@@ -1,5 +1,8 @@
 allowHTML: true
 outputFormat: html
+no-index: false
+mtimes: bool
+project-name: faq_transport_mos
 
 interface:
   toc-header: false
@@ -18,7 +21,6 @@ docs-viewer:
    src: https://i.postimg.cc/rw6SPB0d/Frame-9.jpg
   themes: ['dark']
 
-
 resources:
   style:
     - _assets/style/custom.css
@@ -31,13 +33,8 @@ extensions:
       - name: markdown-it-emoji
         exportName: full
 
-no-index: false
-
-project-name: faq_transport_mos
-
 authors:
   enabled: bool
 
-mtimes: bool
-
-contributors: bool
+contributors:
+  enabled: bool
