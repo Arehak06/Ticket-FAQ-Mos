@@ -26,7 +26,7 @@ blocks:
         buttons:
           - text: 'Подробнее'
             theme: 'raised'
-            url: './landing/about.md'
+            url: '../landing/about.md'
         border: none
         theme: 'light'
       - type: 'background-card'
@@ -39,7 +39,7 @@ blocks:
         buttons:
           - text: 'Подробнее'
             theme: 'raised'
-            url: './landing/tickets.md'
+            url: '../landing/tickets.md'
         border: none
         theme: 'light'
       - type: 'background-card'
@@ -52,7 +52,7 @@ blocks:
         buttons:
           - text: 'Подробнее'
             theme: 'raised'
-            url: './landing/table.md'
+            url: '../landing/table.md'
         theme: 'light'
         border: none
       - type: 'background-card'
@@ -78,7 +78,7 @@ blocks:
         buttons:
           - text: 'Подробнее'
             theme: 'raised'
-            url: './landing/train.md'
+            url: '../landing/train.md'
         border: none
         theme: 'light'
       - type: 'background-card'
@@ -91,7 +91,7 @@ blocks:
         buttons:
           - text: 'Связаться с нами'
             theme: 'raised'
-            url: './landing/contacts.md'
+            url: '../landing/contacts.md'
         border: none
         theme: 'light'
     indent:

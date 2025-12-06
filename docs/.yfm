@@ -24,8 +24,20 @@ resources:
     - _assets/style/custom.css
 
 extensions:
+- name: github-vcs
 - name: mdit-plugins
   plugins:
       - "markdown-it-ins"
       - name: markdown-it-emoji
         exportName: full
+
+no-index: false
+
+project-name: faq_transport_mos
+
+authors:
+  enabled: bool
+
+mtimes: bool
+
+contributors: bool

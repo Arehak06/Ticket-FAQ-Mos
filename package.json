@@ -1,20 +1,14 @@
 {
-  "name": "@true-ruslan/trueruslan-landing",
+  "name": "@transport-mos",
   "version": "0.1.2",
-  "description": "Многостраничный лендинг TrueRuslan",
-  "homepage": "https://wiki.marketdb.ru/",
+  "description": "Справочник по транспорту Москвы и области Arehak & TrueRuslan",
+  "homepage": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/true-ruslan/trueruslan-landing.git"
-  },
-  "bugs": {
-    "url": "https://github.com/true-ruslan/trueruslan-landing/issues",
-    "email": "ruslan.nemikin@gmail.com"
+    "url": ""
   },
   "author": {
-    "name": "TrueRuslan",
-    "email": "ruslan.nemikin@gmail.com",
-    "url": "https://github.com/True-Ruslan"
+    "name": "Arehak & TrueRuslan"
   },
   "keywords": [
     "diplodoc",

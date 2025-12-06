@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-console.log('📁 Copying assets to docs-html...');
+console.log('📁 Копирование ресурсов в docs-html...');
 
 // Function to copy files recursively
 function copyFileSync(source, target) {
@@ -45,7 +45,7 @@ function copyPDFFiles() {
   const docsHtmlDir = path.join(__dirname, '..', 'docs-html');
   
   if (!fs.existsSync(docsHtmlDir)) {
-    console.log('❌ docs-html directory not found. Run build:docs first.');
+    console.log('❌ docs-html каталог не найден. Run build:docs first.');
     return;
   }
 
@@ -79,15 +79,15 @@ function copyPDFFiles() {
 function createNoJekyllFile() {
   const nojekyllPath = path.join(__dirname, '..', 'docs-html', '.nojekyll');
   fs.writeFileSync(nojekyllPath, '# This file tells GitHub Pages not to process this directory with Jekyll');
-  console.log('✅ Created .nojekyll file');
+  console.log('✅ Создан .nojekyll файл');
 }
 
 // Main execution
 try {
   copyPDFFiles();
   createNoJekyllFile();
-  console.log('🎉 Assets copied successfully!');
+  console.log('🎉 Активы успешно скопированы!');
 } catch (error) {
-  console.error('❌ Error copying assets:', error.message);
+  console.error('❌ Ошибка при копировании ресурсов:', error.message);
   process.exit(1);
 }
