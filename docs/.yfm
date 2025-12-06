@@ -1,8 +1,12 @@
 allowHTML: true
 outputFormat: html
-no-index: false
-mtimes: bool
 project-name: faq_transport_mos
+allowCustomResources: true
+
+vcs: true
+mtimes: true
+authors: true
+
 
 interface:
   toc-header: false
@@ -32,9 +36,3 @@ extensions:
       - "markdown-it-ins"
       - name: markdown-it-emoji
         exportName: full
-
-authors:
-  enabled: bool
-
-contributors:
-  enabled: bool

@@ -1,11 +1,11 @@
 {
-  "name": "@transport-mos",
+  "name": "@true-ruslan/trueruslan-landing",
   "version": "0.1.2",
   "description": "Справочник по транспорту Москвы и области Arehak & TrueRuslan",
   "homepage": "",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Arehak06/test-support-2.0/tree/master"
   },
   "author": {
     "name": "Arehak & TrueRuslan"
@@ -26,7 +26,7 @@
   "main": "scripts/serve.js",
   "scripts": {
     "start": "npm run build:docs && node scripts/serve.js",
-    "build:docs": "yfm --input docs --allow-custom-resources --output docs-html && npm run copy-assets",
+    "build:docs": "yfm --input docs --vcs --authors --mtimes --allow-custom-resources --output docs-html && npm run copy-assets",
     "copy-assets": "node scripts/copy-assets.js"
   },
   "dependencies": {
