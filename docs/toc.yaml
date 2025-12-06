@@ -72,6 +72,8 @@ items:
   items:
   - name: Безбилетный проезд
     href: ./faq_docs/projects.md
+  - name: Опоздание поездов
+    href: ./faq_docs/being_late.md
 - name: ...и многое другое
   labeled: true
   items:
