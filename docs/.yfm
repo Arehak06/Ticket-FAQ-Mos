@@ -7,7 +7,6 @@ vcs: true
 mtimes: true
 authors: true
 
-
 interface:
   toc-header: false
   favicon-src: https://i.postimg.cc/rw6SPB0d/Frame-9.jpg

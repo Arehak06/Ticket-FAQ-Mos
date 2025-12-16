@@ -51,6 +51,8 @@ items:
   href: tickets/tickets.md
   labeled: true
   items:
+  - name: Льготы
+    href: tickets/lgota.md
   - name: Москва
     href: tickets/troika.md
     items:
