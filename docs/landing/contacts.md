@@ -21,11 +21,12 @@
 
 **🖤 GitHub**: [**Arehak**](https://github.com/Arehak06)
 
+**🎫 Telegram справочника**: [**t.me/faq_transport_mos**](https://t.me/faq_transport_mos)
+
 **💚 Telegram - чат «D4 Апрелевка - Железнодорожная»**: [**t.me/D4passenger**](https://t.me/D4passenger)
 
 **🟩 Подслушано МДЦ-D4 | Апрелевка - Железнодорожная**: [**t.me/D4msk**](https://t.me/D4msk)
 
-**🤍 ЗОТ - За Общественный Транспорт.**: [**t.me/For_Public_Transport**](https://t.me/For_Public_Transport)
 
 ---
 
