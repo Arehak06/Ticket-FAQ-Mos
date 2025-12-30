@@ -107,3 +107,22 @@ blocks:
     indent:
       top: 'm'
       bottom: 'm'
+  - type: 'banner-block'
+    className: ''
+    title: 'Оперативная информация по движению поездов'
+    subtitle: 'Телеграм-каналы с актуальной информацией по движению поездов и оперативные изменения в расписании'
+    image: 'https://i.postimg.cc/DZ59QPy1/Frame-14-2.png'
+    button:
+     text: 'Подробнее'
+     url: 'https://forms.yandex.com/u/6919c96790fa7b52c4668f0e'
+    indent:
+      top: 'm'
+      bottom: 'm'
+  - type: 'banner-block'
+    className: ''
+    title: 'Плановое изменение в движении поездов на линиях МЖД'
+    subtitle: 'Сообщаем заранее о плановых изменениях в движении поездов на Московской железной дороге'
+    image: 'https://i.postimg.cc/pVFQFXGs/Frame-15.png'
+    button:
+     text: 'Подробнее'
+     url: 'https://forms.yandex.com/u/6919c96790fa7b52c4668f0e'
