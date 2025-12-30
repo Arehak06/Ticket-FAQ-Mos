@@ -1,3 +1,5 @@
+title: Справочник по транспорту Москвы и области ❤️
+href: index.yaml
 navigation:
   logo:
     url: "./index.html"
@@ -14,7 +16,7 @@ navigation:
         url: 'index.html'
       - text: О нас
         type: link
-        url: 'https://arehak06.github.io/Ticket-FAQ-Mos/landing/about.html'
+        url: '../../docs/landing/about.md'
       - text: Билетная система
         type: link
         url: 'https://arehak06.github.io/Ticket-FAQ-Mos/landing/tickets.md'
@@ -29,10 +31,9 @@ navigation:
         text: Telegram
         url: https://t.me/faq_transport_mos
         theme: pseudo
+      - type: controls
 withBorder: true
 withBorderOnScroll: true
-title: Справочник по транспорту Москвы и области ❤️
-href: index.yaml
 items:
 - name: Главное
   labeled: true
