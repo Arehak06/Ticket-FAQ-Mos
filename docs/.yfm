@@ -21,7 +21,6 @@ plugins:
 docs-viewer:
   logo-options: 
    src: https://i.postimg.cc/rw6SPB0d/Frame-9.jpg
-  themes: ['dark']
 
 resources:
   style:
