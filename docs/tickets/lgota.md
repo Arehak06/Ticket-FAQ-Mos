@@ -101,3 +101,4 @@
 Более подробно на сайте ЦППК: [https://central-ppk.ru/new/tariffs/info/lgoty/region.php](https://central-ppk.ru/new/tariffs/info/lgoty/region.php)
 
 
+## FAQ по статье

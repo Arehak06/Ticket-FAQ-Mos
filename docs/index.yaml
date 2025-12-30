@@ -101,7 +101,7 @@ blocks:
         buttons:
           - text: 'Связаться с нами'
             theme: 'raised'
-            url: '../landing/contacts.md'
+            url: 'contacts.md'
         border: none
         theme: 'light'
     indent:
